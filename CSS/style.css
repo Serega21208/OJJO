@@ -92,7 +92,7 @@ select {
    max-height: 950px;
 }
 .page-header{
-   background-image: url(../image/bgc.png);
+   background-image: url(./image/bgc.png);
    background-position: center;
    padding-bottom: 30px;
 }
